@@ -13,7 +13,7 @@
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="XML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-plain.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="[https://www.gezginler.net/indir/resim-grafik/net-8-1715853345.png](https://tse3.mm.bing.net/th/id/OIP.hySH3ia4t28UWig_GjMo2QAAAA?w=300&h=300&rs=1&pid=ImgDetMain&o=7&rm=3)">
+  <img align="center" alt=".NET" height="30" width="40" src="">
 </div>
  
 <br>
