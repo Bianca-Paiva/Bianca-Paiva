@@ -12,7 +12,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt=".NET" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/.net/.net-original.svg">
+  <img align="center" alt=".NET" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/.net/.net-original.svg](https://www.marefa.org/%D9%85%D9%84%D9%81:Microsoft_.NET_logo.svg)">
 </div>
  
 <br>
