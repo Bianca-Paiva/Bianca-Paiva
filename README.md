@@ -1,9 +1,6 @@
 ## 👩‍💻 Bem-vindo(a) ao perfil de Bianca
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bianca-Paiva&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Paiva&layout=compact&langs_count=10&theme=tokyonight" />
-</div> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bianca-Paiva&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&cache_seconds=86400) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Paiva&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400)
 
 <br>
 
@@ -14,7 +11,8 @@
   <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET MAUI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="XML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-plain.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">         
 </div>
   
   ##
