@@ -1,6 +1,11 @@
 ## 👩🏻‍💻 Bem-vindo(a) ao perfil de Bianca
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bianca-Paiva&show_icons=true&theme=tokyonight&count_private=true&hide=contribs&cache_seconds=86400) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Paiva&layout=compact&langs_count=10&theme=tokyonight&cache_seconds=86400)
+<div> 
+  <a href="https://github.com/Bianca-Paiva"> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bianca-Paiva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-Paiva&layout=compact&langs_count=6&theme=tokyonight"/> 
+   
+</div> 
 
 <br>
 
