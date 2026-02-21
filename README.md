@@ -1,6 +1,10 @@
 ## 👩🏾‍💻 Bem-vindo(a) ao perfil de Bianca
 **`Estudante de Desenvolvimento de Sistemas`**
 
+<p>
+  Sou estudante do técnico em Desenvolvimento de Sistemas no Senac, com foco em lógica, organização e construção de soluções práticas. Gosto de transformar problemas em código bem estruturado, priorizando clareza, eficiência e evolução contínua. Estou desenvolvendo minha base com visão estratégica, buscando crescer na área de tecnologia com consistência e mentalidade de longo prazo.
+</p>
+
 <br>
 
 ### 📊 Estatísticas
