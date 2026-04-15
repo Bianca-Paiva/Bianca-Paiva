@@ -5,8 +5,6 @@
   Sou estudante de Desenvolvimento de Sistemas no Senac, com foco em lógica, organização e construção de soluções práticas. Tenho interesse em desenvolvimento full stack, interfaces bem estruturadas e aplicações que resolvam problemas reais com clareza e eficiência. Atualmente, venho fortalecendo minha base técnica com projetos voltados para desenvolvimento web e desktop, front-end, back-end, banco de dados e construção e integração de APIs.
 </p>
 
-<br>
-
 ### 📊 Estatísticas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bianca-Paiva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
