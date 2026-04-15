@@ -1,8 +1,8 @@
-## 👩🏾‍💻 Bem-vindo(a) ao perfil de Bianca
-**`Estudante de Desenvolvimento de Sistemas`**
+## 👩🏾‍💻 Bianca Paiva
+**`Desenvolvimento de Sistemas | Full Stack em formação`**
 
 <p>
-  Sou estudante do técnico em Desenvolvimento de Sistemas no Senac, com foco em lógica, organização e construção de soluções práticas. Gosto de transformar problemas em código bem estruturado, priorizando clareza, eficiência e evolução contínua. Estou desenvolvendo minha base com visão estratégica, buscando crescer na área de tecnologia com consistência e mentalidade de longo prazo.
+  Sou estudante de Desenvolvimento de Sistemas no Senac, com foco em lógica, organização e construção de soluções práticas. Tenho interesse em desenvolvimento full stack, interfaces bem estruturadas e aplicações que resolvam problemas reais com clareza e eficiência. Atualmente, venho fortalecendo minha base técnica com projetos voltados para desenvolvimento web e desktop, front-end, back-end, banco de dados e construção e integração de APIs.
 </p>
 
 <br>
@@ -14,79 +14,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bianca-Paiva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
 <br>
 
 ### 🤖 Linguagens e Tecnologias
-<div style="display: inline_block"><br>  
-  <img 
-    align="center" 
-    alt="HTML" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img 
-    align="center" 
-    alt="CSS" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img 
-    align="center" 
-    alt="Js" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img 
-    align="center" 
-    alt="CSharp" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img 
-    align="center" 
-    alt=".NET MAUI" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img 
-    align="center" 
-    alt="XML" 
-    height="30"
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-plain.svg">
-   <img 
-     align="center" 
-     alt="SQL" 
-     height="30" 
-     width="40" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img 
-    align="center" 
-    alt="Git" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img 
-    align="center" 
-    alt="Figma" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
-</div>
+
+<p align="center">
+  <img alt="HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" hspace="8" />
+  <img alt="CSS" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" hspace="8" />
+  <img alt="JavaScript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" hspace="8" />
+  <img alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" hspace="8" />
+  <img alt="CSharp" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" hspace="8" />
+  <img alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" hspace="8" />
+  <img alt=".NET" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" hspace="8" />
+  <img alt="SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" hspace="8" />
+  <img alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" hspace="8" />
+  <img alt="Figma" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" hspace="8" />
+</p>
+<p align="left">
+  Experiência com desenvolvimento web e desktop, HTML, CSS, JavaScript, TypeScript, React, C#, .NET, SQL, Git, Figma, interfaces com .NET MAUI e construção e integração de APIs REST.
+</p>
   
-  ##
+### 📫 Contatos
  
-<div>  
-  <a href = "mailto:biancasilveriapaivarg@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" 
-      target="_blank">
+<div align="left">  
+  <a href="mailto:biancasilveriapaivarg@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
   <a href="https://www.linkedin.com/in/bianca-silveria-paiva/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
